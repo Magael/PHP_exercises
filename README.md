@@ -23,7 +23,7 @@
   - And finally : what type of variable would you use to store the information whether you are hungry or not ?
   
   
-3. Drill Conditions
+2. Drill Conditions
 
   - mastery of expressing conditions in PHP for many sorts of use case.
     * Clean your room! Exercise
@@ -35,7 +35,7 @@
     * "School sucks!" Exercise
     * Ternary exercises "Unicorn"
     
-4. Fake Excuse Notes Generator
+**-** Fake Excuse Notes Generator
 
   Parents must sometimes write notes to excuse their child out of specific school activities. Create a short form that offers pre-defined excuse notes to help Parents get this done faster.
 
@@ -54,11 +54,11 @@
     
   For each option, invent an appropriate excuse according to the chosen option (inspiration).
   
-5. Arrays
+3. Arrays
 
   - Countries Exercise
   
-6. Loops
+4. Loops
   
   - Write a script that prints the numbers from 1 to 120 using  while
   - Write a script that prints the numbers from 1 to 120 using  for
@@ -68,7 +68,7 @@
     ```$pays = array('BE'=>'Belgique');``` 
   - Now, adapt your html select box so that the country ISO code becomes the <option> element value, and the country name be the visible part of the <option>.
   
-7. Functions
+5. Functions
 
   - Use a function that capitalizes the first letter of the provided argument. Example: "émile"should return "Émile"
   - Use the native function allowing you to display the current year.
